@@ -1,8 +1,9 @@
 # python-projects
 Basic Python automation and practice projects
-# AI Security Camera System
+# AI Based Shop Security System
 
-This project detects motion and sends email alerts.
+## Description
+This project detects motion and captures image using Python & OpenCV and sends email alerts.
 
 ## Technologies Used
 - Python
@@ -10,5 +11,7 @@ This project detects motion and sends email alerts.
 - SMTP
 
 ## Features
-- Date-based folder saving
-- Email notification
+- Motion detection
+- Email alert system
+- Image storage with date folder
+- Camera integration
